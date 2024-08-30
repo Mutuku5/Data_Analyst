@@ -1,2 +1,2 @@
 # Data_Analyst
-Use for Data analysis in python
+Use for Data analysis in python. The main goal of this project is to learn how to reserve in both general and life insurance. The second key item is to develop machine learning models. I want coding to be my fun time activity. There are three types here: Actuarial perspective, for reserving, and pricing. There is the second phase of machine learning and there is the ability to use VBA in exce. All these are great ways to use your free time. Yap, Lets GO GO, GO GO.
